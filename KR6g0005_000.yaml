@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大般涅槃經玄義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1765.xml
+    old_id: T38n1765
+hash: sha256:5b4908851e69d0986d352fc9c5058e0a4c8efeb40178e4a8bc0be7c37283c6ee

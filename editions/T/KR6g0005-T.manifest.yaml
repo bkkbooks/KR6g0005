@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6g0005/T/v1
+canonical_location: https://kanripo.org/bkk/KR6g0005/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大般涅槃經玄義
+  identifiers:
+    krp: KR6g0005
+    cbeta: T38n1765
+    cbeta_old_id: T38n1765
+    authorityid: CA0000545
+    json_key: T1765
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1765.xml
+    old_id: T38n1765
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0005_000-T.yaml, hash: 'sha256:5b4908851e69d0986d352fc9c5058e0a4c8efeb40178e4a8bc0be7c37283c6ee'}
+  - {seq: 1, filename: KR6g0005_001-T.yaml, hash: 'sha256:03037d3bcbc0ceb29c70e24d1b1e7eb0436e23786e6b3b521ec4e85e83e3c770'}
+  - {seq: 2, filename: KR6g0005_002-T.yaml, hash: 'sha256:bd0ab07624b614e0baedc4483439a14c412e0bf5fa468397475298e069f588b0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0005_000-T.markers.yaml, hash: 'sha256:94d703f8175be4147712180b77aa4f165a4324f1a9b2823298dd9d8981413d03'}
+  - {seq: 1, role: markers, filename: assets/KR6g0005_001-T.markers.yaml, hash: 'sha256:1c40a787c99d1a6d0f242099497ac4965eb566885fe9bdc0567bfa521d064870'}
+  - {seq: 2, role: markers, filename: assets/KR6g0005_002-T.markers.yaml, hash: 'sha256:01f58a024ee0b8b9ba1e057bf3c613a060fd87819914880ada7efd838c85bd94'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10288
+  label: 大般涅槃經玄義卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0005_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10276
+  label: 大般涅槃經玄義卷下
+  type: juan
+  level: 1
+hash: sha256:c380951b8c52d0828a46e92987dd545962c37de1ff92d1f1d3c0365400e1cac6
